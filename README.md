@@ -30,9 +30,7 @@ To enhance the recommendation system, several machine learning and NLP technique
 - Python 3.14
 - Libraries: pandas, numpy, nltk, sklearn, gensim, sentence-transformers
 
-### Architecture
 
-News-Recommendation-System ├── ContentBased.py ├── ItemBasedCollaborative.py ├── MetadataBased.py ├── Preprocessing.py ├── README.md ├── hybrid.py ├── requirements.txt ├── data │ ├── aggregated_behaviors.tsv │ ├── behaviors.tsv │ ├── entity_embedding.vec │ ├── item_similarity_matrix.csv │ ├── news.tsv │ ├── news_select.tsv │ ├── reddit_behaviors.csv │ ├── reddit_news_data.csv │ ├── relation_embedding.vec │ └── user_item_matrix.csv └── venv
 
 ### Installation
 Clone the repository and install the required libraries.
