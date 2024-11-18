@@ -37,3 +37,10 @@ Clone the repository and install the required libraries.
 git clone https://github.com/lyssva345/News-Recommendation-System.git
 cd News-Recommendation-System
 pip install -r requirements.txt
+
+
+### Architecture
+
+News-Recommendation-System ├── ContentBased.py ├── ItemBasedCollaborative.py ├── MetadataBased.py ├── Preprocessing.py ├── README.md ├── hybrid.py ├── requirements.txt ├── data │ ├── aggregated_behaviors.tsv │ ├── behaviors.tsv │ ├── entity_embedding.vec │ ├── item_similarity_matrix.csv │ ├── news.tsv │ ├── news_select.tsv │ ├── reddit_behaviors.csv │ ├── reddit_news_data.csv │ ├── relation_embedding.vec │ └── user_item_matrix.csv └── venv
+
+
